@@ -1,0 +1,21 @@
+
+cat >page1.txt
+
+git init
+
+
+
+
+ls
+cd..
+
+q
+[A[A[A[A[A[A[A[A[A[A[A[A[A[A[C[C[B[C[C[C[C[C[C[C[C[C[C[C[C[Cls
+[A[B[B[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[[B[B[C[C[C[C[C[B[B[B[B[B[B[B[B[[A[A[C[C[A[A[A[A[A[A[A[A[A[A[$ ls
+[A[C[C[C[Cclear
+[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[D[D[D[D[D[D[D[D[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[B[A[A[B[D[D[D[D[D[D[D[D[D[C[C[C[C[C-m
+[A[C[C[C[C
+
+[A[A[A[B[C[C[Cgit status
+[A[C[C[C[C[C[C[C[C[C[C[C[C
+ls
